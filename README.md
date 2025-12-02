@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cybermahim/cybermahim/main/ChatGPT%20Image%20Dec%202%2C%202025%2C%2010_43_21%20PM.png" alt="Cybermahim Banner" />
+</p>
+
+
 # 🔐 Cybermahim
 ### Cybersecurity Specialist | OSINT & Pentesting Focus | Security Researcher
 
